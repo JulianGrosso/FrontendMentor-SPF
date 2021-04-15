@@ -2,7 +2,7 @@
 
 ## Challenge de Frontend Mentor
 
-[Live Demo]()
+[Live Demo](https://juliangrosso.github.io/Social-Proof-Section/)
 
 ## Features
 
