@@ -6,7 +6,7 @@
 
 ## Features
 
-El desafío consiste en crear un social proof section y lograr que se parezca lo más posible al diseño propuesto.
+El desafío consiste en crear un social proof section y lograr que se parezca lo más posible al diseño propuesto en el challenge.
 
 [Challenge Link](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
 
