@@ -1,12 +1,17 @@
+<a href="https://juliangrosso.github.io/FrontendMentor-SPF/"><img src="./github_assets/FM_Showcase_SPS_v1.jpg" width="auto" height="auto"></a>
+
 # Social Proof Section
 
 ## Challenge de Frontend Mentor
 
-[Live Demo](https://juliangrosso.github.io/FrontendMentor-Social-Proof-Section/)
+[Live Demo](https://juliangrosso.github.io/FrontendMentor-SPF/)
+
+_Disclaimer: This project was done for educational purposes only._
 
 ## Features
 
-El desafío consiste en crear un social proof section y lograr que se parezca lo más posible al diseño propuesto en el challenge.
+- This project is a [Front-end Mentor](https://www.frontendmentor.io/) Challenge.
+- It's desktop and mobile ready.
 
 [Challenge Link](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
 
